@@ -1,0 +1,11 @@
+{
+    "domain": "zipato",
+    "name": "Zipato MQTT",
+    "documentation": "https://github.com/viktorbalog/zipato",
+    "dependencies": [
+        "http"
+    ],
+    "codeowners": [
+        "@viktorbalog"
+    ]
+  }
